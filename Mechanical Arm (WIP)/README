@@ -1,1 +1,5 @@
-test
+Design Constraints / Requirements:
+- Should be realistically sized
+- Designed parts must be 3d printble
+- The arm MUST be able to support at least 20kg in addition to it's own weight
+- Design must retain most of the dexterity of a real hand
